@@ -6,7 +6,7 @@ obj = {
   "subscriber": {
     "entitlements": {
       "premium": {
-        "expires_date": "2023-08-06T02:30:14Z",
+        "expires_date": "2024-08-06T02:30:14Z",
         "grace_period_expires_date": null,
         "product_identifier": "com.neybox.pillow.premium.month",
         "purchase_date": "2022-08-06T02:30:14Z"
